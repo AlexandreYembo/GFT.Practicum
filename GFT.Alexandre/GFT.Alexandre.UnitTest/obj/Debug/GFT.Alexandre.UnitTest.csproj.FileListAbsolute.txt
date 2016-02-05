@@ -5,3 +5,10 @@ C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.UnitTest\bin\Debug\GFT.Al
 C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.UnitTest\bin\Debug\GFT.Alexandre.Services.pdb
 C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.UnitTest\obj\Debug\GFT.Alexandre.UnitTest.dll
 C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.UnitTest\obj\Debug\GFT.Alexandre.UnitTest.pdb
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.UnitTest\bin\Debug\GFT.Alexandre.UnitTest.dll
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.UnitTest\bin\Debug\GFT.Alexandre.UnitTest.pdb
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.UnitTest\bin\Debug\GFT.Alexandre.Services.dll
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.UnitTest\bin\Debug\GFT.Alexandre.Services.pdb
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.UnitTest\obj\Debug\GFT.Alexandre.UnitTest.csprojResolveAssemblyReference.cache
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.UnitTest\obj\Debug\GFT.Alexandre.UnitTest.dll
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.UnitTest\obj\Debug\GFT.Alexandre.UnitTest.pdb

@@ -10,7 +10,7 @@ using System.Linq;
 namespace GFT.Alexandre.UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class OrderTest
     {
         [TestMethod]
         public void CreateOrder()

@@ -6,3 +6,6 @@ C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Application\obj\Debug\GFT
 C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Application\obj\Debug\GFT.Alexandre.Application.pdb
 C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Application\bin\Debug\GFT.Alexandre.Services.dll
 C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Application\bin\Debug\GFT.Alexandre.Services.pdb
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.Application\bin\Debug\GFT.Alexandre.Application.exe.config
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.Application\obj\Debug\GFT.Alexandre.Application.exe
+D:\GitHub-repo\GFT.Practicum\GFT.Alexandre\GFT.Alexandre.Application\obj\Debug\GFT.Alexandre.Application.pdb
