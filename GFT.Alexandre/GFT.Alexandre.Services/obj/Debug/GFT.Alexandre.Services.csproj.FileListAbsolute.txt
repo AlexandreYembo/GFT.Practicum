@@ -1,0 +1,5 @@
+C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Services\obj\Debug\GFT.Alexandre.Services.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Services\bin\Debug\GFT.Alexandre.Services.dll
+C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Services\bin\Debug\GFT.Alexandre.Services.pdb
+C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Services\obj\Debug\GFT.Alexandre.Services.dll
+C:\Users\Alexandre\Desktop\GFT.Alexandre\GFT.Alexandre.Services\obj\Debug\GFT.Alexandre.Services.pdb
